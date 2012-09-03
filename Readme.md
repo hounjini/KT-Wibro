@@ -30,6 +30,6 @@
 Special thanks : cm팀, toastcfh.
 
 									2012년 8월 27일 구현 완료,
-									2012년 9월 3일 업로드.
-									박헌진 (hounjini@gmail.com)
+									     2012년 9월 3일 업로드.
+									   헌진 (hounjini@gmail.com)
 
