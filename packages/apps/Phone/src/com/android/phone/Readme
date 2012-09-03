@@ -1,0 +1,2 @@
+ITelephony.aidl에서 적어놓은 함수를 구현한다.
+wimax.jar에서 직접적으로 호출되는 부분.

@@ -1,0 +1,3 @@
+와이브로를 넣기 위한 보드설정 (boardconfig.mk)
+그리고 롬에서 뺴내야할 파일들, (proprietary-files.txt)
+컴파일해야하고 복사해야하는 파일들에 대한 정보 (rider.mk)

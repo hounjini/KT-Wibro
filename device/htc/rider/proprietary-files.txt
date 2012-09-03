@@ -1,0 +1,3 @@
+etc/wimax/sequansd/DefaultTree.xml 
+etc/wimax/sequansd/sequansd_app.xml 
+etc/wimax/dhcp/wimaxDhcp.conf
